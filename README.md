@@ -2,6 +2,7 @@
 <h3 align="center">A passionate data scientist from Italy, based in Belgium</h3>
 
 - 🔭 I’m currently working on **StreamGuide**
+- ⚽ Worked on **MatchMaster** 
 
 - 📫 How to reach me **michele.deantoni.MD@gmail.com**
 
